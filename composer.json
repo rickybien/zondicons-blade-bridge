@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "blade-ui-kit/blade-icons": "^0.3"
+        "blade-ui-kit/blade-icons": "^0.5"
     },
     "autoload": {
         "psr-4": {
